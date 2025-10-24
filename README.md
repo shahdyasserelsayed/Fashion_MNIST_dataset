@@ -6,7 +6,9 @@ This project applies both **Machine Learning** and **Deep Learning** models to t
 ##  Models Implemented
 -Support Vector Machine (SVM)  
 -Random Forest Classifier 
+
 -PCA + SVM 
+
 -Fully Connected Deep Learning Model (DNN) 
 
 ---
