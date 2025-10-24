@@ -49,6 +49,7 @@ Upload a fashion item image → Model predicts category
 Example output:
 ```
 Prediction: Ankle Boot
+Accuracy:98.01%
 ```
 
 Supported Predictions:
